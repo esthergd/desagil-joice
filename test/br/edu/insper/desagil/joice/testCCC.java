@@ -5,11 +5,11 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class testCCC {
-	private CalcularoraCCC calculo;
+	private CalculadoraCCC calculo;
 	
 	@BeforeEach
 	public void setUp() {
-		calculo = new CalcularoraCCC();
+		calculo = new CalculadoraCCC();
 	}
 	@Test
 	public void testTungstenio() {
