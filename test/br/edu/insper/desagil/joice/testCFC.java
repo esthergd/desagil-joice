@@ -2,6 +2,9 @@ package br.edu.insper.desagil.joice;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import br.edu.insper.desagil.joice.model.CalculadoraCFC;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class testCFC {
@@ -13,7 +16,7 @@ public class testCFC {
 	}
 	@Test
 	public void testCobre() {
-		assertEquals(8.89, calculo.calcula(63.95, 0.128), 0.05);
+		assertEquals(8.89, calculo.calcula(63.55, 0.128), 0.05);
 	}
 	@Test
 	public void testOuro() {
