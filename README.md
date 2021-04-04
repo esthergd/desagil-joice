@@ -1,5 +1,6 @@
-Projeto2 da Matéria de Desenvolvimento Colaborativo Ágil
+Projeto 2 da matéria de Desenvolvimento Colaborativo Ágil
+Professor Marcelo Hashimoto
 
-Integrantes:
-  -Bruno Boldrim Saboya
-  -Esther Gallo Dagir
+Grupo:
+	-Bruno Boldrim Saboya
+	-Esther Gallo Dagir
